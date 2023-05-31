@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karendaysu Wolfe (call me Karen though)
 - 👀 I’m interested in eating different culture foods, learning more about programming languages, and just enjoy spending time with my family.
-- 🌱 I’m currently learning Java, and hope to learn C++, or C# in the future.
+- 🌱 I’m currently learning Java, Python, JavaScript, HTML, CSS, MySQL, MongoDB and C#, and am hoping to get started on learning C++.
 - 💞️ I’m looking to collaborate on any projects that need my help
 - 📫 How can you reach me?  karenp3@hotmail.com
 
